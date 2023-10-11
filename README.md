@@ -15,3 +15,5 @@ In order to keep these lives, you must collect every poison apple and not let th
 
 If you do, you go back to the main menu.
 
+The Game is in the Master Branch
+
